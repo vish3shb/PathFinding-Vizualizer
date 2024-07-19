@@ -5,8 +5,6 @@
 ---
 
 ## How to Run
-
-- Clone Repository
 - Run `Main.java`
 
 ---
